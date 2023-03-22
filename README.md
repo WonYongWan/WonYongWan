@@ -1,3 +1,7 @@
+<p align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Front%20End%20Developer!&animation=fadeIn&fontAlign=50&fontAlignY=40&color=gradient" />
+</p>
+
 <p align=center>💻<b>Tech Stack</b></p>
 
 <p align='center'>
