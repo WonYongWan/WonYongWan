@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p align=center>📅<b>GiHub Stats</b></p>
+<p align=center>📈<b>GiHub Stats</b></p>
 
 <table align=center>
   <tbody>
