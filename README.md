@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=I`m%20FE%20Developer✋&animation=fadeIn&fontAlign=50&fontAlignY=40&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=YongWanWon&animation=fadeIn&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
 <p align=center>💻<b>Tech Stack</b></p>
