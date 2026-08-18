@@ -21,18 +21,3 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
   </a>
 </p>
-
-<p align=center>📈<b>GiHub Stats</b></p>
-
-<table align=center>
-  <tbody>
-    <tr>
-      <td width="50%">
-        <img align=center src=https://github-readme-stats.vercel.app/api?username=WonYongWan&show_icons=true&theme=transparent&hide_border=true style="width:100%;"/>
-      </td>
-      <td width="50%">
-        <img align=center src=https://github-readme-stats.vercel.app/api/top-langs/?username=WonYongWan&layout=compact&hide_border=true style="width:100%;"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
